@@ -1,0 +1,25 @@
+:root {
+    --blanco: #ffffff;
+    --oscuro:#212121;
+    --primario:#FFC107;
+    --secundario:#0097A7;
+    --griss:#757575;
+    
+}
+.titulos{
+text-align: center;
+font-size: 3.8rem;
+color: rgba(255, 0, 47, 0.765);  
+}
+span{
+    font-size: 10px;
+
+}
+h2{
+    text-align: center;
+    color: blueviolet;  
+    }
+    span{
+        font-size: 10px;
+    
+    }
